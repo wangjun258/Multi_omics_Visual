@@ -1,6 +1,6 @@
 # Multi_omics_Visual
 Efficient drawing tool: Multi-omics Visual    
-Version 1.0    
+Version 1.01    
 Softwarename Multi-omics Visual    
 System windows7, windows10    
 Copyright 2021-2041, All Rights Reserved    
